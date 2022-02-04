@@ -21,7 +21,7 @@ annotations:
     reference: ''
     span:
       start: 1857
-      end: 2032
+      end: 2019
 local_ids:
   b85f7a2aacd14f5f8070d82c367bcdc6: 200000
   3ea8d1da0f14483d9b6620d44cd17499: 200001
